@@ -80,7 +80,7 @@ body {
     height: 2rem;
     border-radius: 1.4rem;
     opacity: 0.75;
-    border: 2px solid #102C57;
+    border: 2px solid #fefaf6;
     box-sizing: content-box;
 }
 
@@ -105,7 +105,7 @@ body {
     width: 0.25rem;
     height: 0.625rem;
     border-radius: 25%;
-    background-color: #3a3a3a;
+    background-color: #fefaf6;
     animation-name: scroll;
     animation-duration: 2.5s;
     animation-timing-function: linear;
@@ -157,11 +157,11 @@ footer {
 }
 
 .bg-theme-secondary {
-    background-color: #e4dcda;
+    background-color: #102C57;
 }
 
 .bg-theme-secondary {
-    background-color: #e4dcda;
+    background-color: #102C57;
 }
 
 .color-theme-white {
@@ -175,7 +175,12 @@ footer {
 
 .color-theme-secondary {
     color: #FEFAF6;
-    background-color: #e4dcda;
+    background-color: #102C57;
+}
+
+.color-theme-baru {
+    color: #FEFAF6;
+    background-color: #E4DCDA;
 }
 
 .navbar {
