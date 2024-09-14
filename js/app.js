@@ -197,7 +197,7 @@ $(document).ready(function () {
     }
 
     // Get the 'to' parameter value from the URL
-    const toValue = getUrlParameter('to', 'Teman teman semua');
+    const toValue = getUrlParameter('to', '');
 
     // Display the value in the output div
     document.getElementById('to-visitor').innerText = toValue;
